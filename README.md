@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&width=800&lines=Hey+there%2C+I'm+Bhuvaneswari+%F0%9F%91%8B;Final+Year+CS+%40+PES+University%2C+Bangalore;Full+Stack+%7C+ML+%7C+NLP+Engineer;Hackfinity+Top+15+%F0%9F%8F%86+%7C+Flipkart+GRID+Top+10%25" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&width=800&lines=Hey+there%2C+I'm+Bhuvaneswari+%F0%9F%91%8B;Final+Year+CS+%40+PES+University%2C+Bangalore;Full+Stack+%7C+ML+%7C+NLP+Engineer;Hackfinity+Top+15+%F0%9F%8F%86+%7C+Flipkart+GRID+Top+10%25" alt="Typing SVG" />
 </div>
 
 <br/>
