@@ -87,18 +87,25 @@
 
 ---
 
+## 📊 GitHub Stats
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bhuvana2983&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvana2983&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </div>
 
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=bhuvana2983&theme=tokyonight&hide_border=true" width="60%"/>
+</div>
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bhuvana2983&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=bhuvana2983&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" />
 </div>
-
 ---
 
 ## 🐍 Contribution Snake
